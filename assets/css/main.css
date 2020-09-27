@@ -2125,27 +2125,27 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: #c4e5d3 !important;
+		color: #A7DFEC !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #c4e5d3 !important;
+		color: #A7DFEC !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #c4e5d3 !important;
+		color: #A7DFEC !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #c4e5d3 !important;
+		color: #A7DFEC !important;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: #c4e5d3 !important;
+		color: #A7DFEC !important;
 		opacity: 1.0;
 	}
 
@@ -2617,7 +2617,7 @@
 			input[type="button"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background-color: #7ec89e;
+				background-color: #A7DFEC;
 			}
 
 			input[type="submit"].alt:active,
@@ -2625,7 +2625,7 @@
 			input[type="button"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background-color: #7ec89e;
+				background-color: #A7DFEC;
 			}
 
 			input[type="submit"].alt.icon:before,
@@ -2650,7 +2650,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #7ec89e;
+				background-color: #A7DFEC;
 			}
 
 			input[type="submit"].special:active,
@@ -2658,7 +2658,7 @@
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #5ab884;
+				background-color: #A7DFEC;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
