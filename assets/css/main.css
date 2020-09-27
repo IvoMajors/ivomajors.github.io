@@ -2001,8 +2001,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4bae77;
-			box-shadow: 0 0 0 1px #4bae77;
+			border-color: #031634;
+			box-shadow: 0 0 0 1px #031634;
 		}
 
 	.select-wrapper {
